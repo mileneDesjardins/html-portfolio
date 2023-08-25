@@ -1,2 +1,2 @@
 # html-portfolio
-lien: https://github.com/mileneDesjardins/html-portfolio 
+lien: https://milenedesjardins.github.io/html-portfolio/
